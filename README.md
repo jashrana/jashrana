@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 👋 Hello there! Me, I'm Jash P. Rana.
+### 🌱 I'm now working on a computer vision thesis that is relevant to radiology images as I graduate with a Master's degree in Computer Science - Artificial Intelligence.
+### 👀 Interested in Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
+### 👯 Looking for a job in the data science and artificial intelligence fields to work with others and contribute to a sustainable future with AI.
+### 📫 Let's connect on LinkedIn: https://www.linkedin.com/in/jashprana/
 <!--
 **jashrana/jashrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
