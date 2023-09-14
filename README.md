@@ -4,8 +4,8 @@
 ### 👀 Interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision areas.
 ### 👯 Looking for a job in the data science and artificial intelligence fields to work with others and contribute to a sustainable future with AI.
 ### 📫 Let's connect: 
-### 1. Email: jashrana4@gmail.com
-### 2. LinkedIn: https://www.linkedin.com/in/jashprana/
+  ###      1. Email: jashrana4@gmail.com
+  ###      2. LinkedIn: https://www.linkedin.com/in/jashprana/
 <!--
 **jashrana/jashrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
