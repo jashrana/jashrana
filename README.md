@@ -2,7 +2,7 @@
 ### 🔭 I am currently learning AWS by implementing a Forex Forecast project with Python, SQL and AWS free-tier services.
 ### 🌱 I have worked on a computer vision thesis (available in my repository) that is relevant to radiology images as I await my results for a Master's degree in Computer Science—Artificial Intelligence.
 ### 👀 Interested in Data Analytics, Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision areas.
-### 👯 Working at an AI hub to introduce PMOs and SMEs to technology advancements (AI and automation). Additionally considering resource-efficient and sustainable work practices.
+### 👯 Working at an AI Hub to introduce technical enhancements (AI and automation) to SMEs and project management offices. Think about sustainable and less resource-intensive work habits.
 ### 📫 Let's connect: 
   ###      1. Email: jashrana4@gmail.com
   ###      2. LinkedIn: https://www.linkedin.com/in/jashprana/
